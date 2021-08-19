@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bootcamp_Mobile</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="calories">Calories:</string>
+</resources>
